@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <title>My Resume</title>
+ <style>
+ body {
+ font-family: Arial, sans-serif;
+ margin: 20px;
+ }
+ h1 {
+ color: #2c3e50;
+ }
+ table {
+ width: 50%;
+ border-collapse: collapse;
+ margin-bottom: 20px;
+ }
+ table, th, td {
+border: 1px solid #34495e;
+ }
+ th, td {
+ padding: 8px;
+ text-align: left;
+ }
+ ul {
+ list-style-type: square;
+ }
+ </style>
+</head>
+<body>
+ <h1>John Doe</h1>
+ <p><strong>Email:</strong> john.doe@example.com<br>
+ <strong>Phone:</strong> +91-9876543210<br>
+ <strong>Location:</strong> Hyderabad, India</p>
+ <h2>Education</h2>
+ <table>
+ <tr>
+ <th>Degree</th>
+ <th>Institution</th>
+ <th>Year</th>
+ </tr>
+ <tr>
+ <td>B.Com (Hons) in Accounting</td>
+ <td>Osmania University</td>
+ <td>2023</td
+</tr>
+ <tr>
+ <td>Intermediate (Commerce)</td>
+ <td>St. Mary's Junior College</td>
+ <td>2020</td>
+ </tr>
+ </table>
+ <h2>Skills</h2>
+ <ul>
+ <li>Internal Audit & Risk Management</li>
+ <li>Analytical Thinking & Attention to Detail</li>
+ <li>Auditing Principles & Compliance Strategies</li>
+ <li>Professional Communication</li>
+ </ul>
+ <h2>About Me</h2>
+ <p>I am a proactive and detail-oriented professional actively pursuing opportunities in
+the financial sector, with a focus on internal audit and risk management. I value
+continuous improvement and strive to present myself with professionalism and clarity in
+every endeavor.</p>
+</body>
+</html>
