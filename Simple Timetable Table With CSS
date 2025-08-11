@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Class Timetable</title>
+ <style>
+ body {
+ font-family: 'Segoe UI', sans-serif;
+ background: linear-gradient(to right, #fff9c4, #ffe0b2);
+ padding: 40px;
+ margin: 0;
+ }
+ .container {
+ max-width: 900px;
+ margin: auto;
+ background-color: #ffffff;
+ padding: 30px;
+ border-radius: 15px;
+ box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+ }
+ h2 {
+ text-align: center;
+ color: #ef6c00;
+margin-bottom: 10px;
+ }
+ p {
+ text-align: center;
+ font-weight: bold;
+ color: #6d4c41;
+ }
+ table {
+ width: 100%;
+ border-collapse: collapse;
+ margin-top: 20px;
+ }
+ th, td {
+ border: 1px solid #ffcc80;
+ padding: 12px;
+ text-align: center;
+ }
+ th {
+ background-color: #ffb74d;
+ color: #fff;
+ }
+ caption {
+ font-size: 1.5em;
+ margin-bottom: 10px;
+ color: #e65100;
+ }
+ </style>
+</head>
+<body>
+ <div class="container
+<h2>Class Timetable – BE V Semester IT-1</h2>
+ <p>Effective From: 16/07/2025 | Room No: L-305</p>
+ <table>
+ <caption>Weekly Schedule</caption>
+ <tr>
+ <th>Day</th>
+ <th>9:10–10:10</th>
+ <th>10:10–11:10</th>
+ <th>11:15–12:15</th>
+ <th>12:15–1:00</th>
+ <th>1:00–2:00</th>
+ <th>2:00–3:00</th>
+ <th>3:05–4:05</th>
+ </tr>
+ <tr>
+ <td>Monday</td>
+ <td>EAD LAB (B1)/CN LAB (B2)</td>
+ <td>FLAT</td>
+ <td>ML</td>
+ <td>PE-2</td>
+ <td>CN</td>
+ <td>LIBRARY (B2)</td>
+ <td>SE</td>
+ </tr>
+ <tr>
+ <td>Tuesday</td>
+ <td>CN LAB (B1)/EAD LAB (B2)</td>
+ <td>SE</td>
+ <td>CN</td
+<td>PE-2</td>
+ <td>ML</td>
+ <td>LIBRARY (B1)</td>
+ <td>FLAT</td>
+ </tr>
+ <tr>
+ <td>Wednesday</td>
+ <td>ML</td>
+ <td>FLAT</td>
+ <td>SE</td>
+ <td>PE-2</td>
+ <td>CN</td>
+ <td>LIBRARY</td>
+ <td>ML</td>
+ </tr>
+ <tr>
+ <td>Thursday</td>
+ <td>FLAT</td>
+ <td>CN</td>
+ <td>ML</td>
+ <td>PE-2</td>
+ <td>SE</td>
+ <td>LIBRARY</td>
+ <td>CN</td>
+ </tr>
+ <tr>
+ <td>Friday</td>
+ <td>SE</td>
+ <td>FLAT</td>
+ <td>ML</td>
+<td>PE-2</td>
+ <td>CN</td>
+ <td>LIBRARY</td>
+ <td>SE</td>
+ </tr>
+ <tr>
+ <td>Saturday</td>
+ <td>ML</td>
+ <td>CN</td>
+ <td>FLAT</td>
+ <td>PE-2</td>
+ <td>SE</td>
+ <td>LIBRARY</td>
+ <td>FLAT</td>
+ </tr>
+ </table>
+ </div>
+</body>
+</html>
